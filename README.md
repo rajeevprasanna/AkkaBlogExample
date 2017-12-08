@@ -1,0 +1,2 @@
+# AkkaBlogExample
+Akka Persistence example
